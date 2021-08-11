@@ -1,0 +1,37 @@
+Overview of Cryptocurrencies:
+- https://www.companisto.com/en/academy/anlageformen-und-strategien/kryptowaehrungen-die-10-wichtigsten-im-berblick
+- http://www3.weforum.org/docs/WEF_Cryptocurrency_Uses_Cases_2020.pdf
+
+What is a CryptoCurrency? - Forbes Link
+- https://www.forbes.com/advisor/investing/what-is-cryptocurrency/
+- https://conotoxia.com/cryptocurrencies/what-are-cryptocurrencies/cryptocurrency-features
+
+Why Crypto?
+- https://www.onlinestudies.com/article/why-study-cryptocurrency-and-blockchain/
+
+How to create your own cryptocurrency:
+- https://www.youtube.com/watch?v=G5KkZE11OYM
+- https://www.cnbc.com/2014/01/23/cnbc-explains-how-to-mine-bitcoins-on-your-own.html
+- https://hackernoon.com/how-to-create-your-own-cryptocurrency-tips-to-get-started-947ba92f79f9
+
+Steps for safely investing in Cryptocurrency
+- https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency
+- https://www.nerdwallet.com/article/investing/cryptocurrency-7-things-to-know
+
+Steps to be taken care while cryptocurrency exchange
+- https://due.com/blog/choosing-a-cryptocurrency-exchange/
+- https://homebusinessmag.com/money/cryptocurrency/5-important-factors-look-choosing-cryptocurrency-exchange/
+- https://www.nasdaq.com/articles/6-things-to-consider-when-choosing-a-cryptocurrency-exchange-2018-02-21
+-https://www.conyers.com/publications/view/why-is-crypto-so-important-and-should-i-care/
+
+Security vulnerabilities in Cryptocurrency exchange.
+- cited in  related work https://resources.infosecinstitute.com/topic/security-vulnerabilities-of-cryptocurrency-exchanges/
+- https://www.apriorit.com/dev-blog/559-ddos-protection-techniques
+- https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors
+- https://www.globalbankingandfinance.com/the-traceability-of-cryptocurrencies-and-the-perfect-cryptocurrency-for-hackers/
+
+Success stories investing in a bitcoin
+- https://www.bbc.com/news/technology-55996412
+
+Loss due to bitcoin
+- https://www.bbc.com/news/uk-scotland-57268024
