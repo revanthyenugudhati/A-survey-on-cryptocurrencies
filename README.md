@@ -1,4 +1,5 @@
-# ResearchMethodology
+## Reader's Note
+The documents in the repository mentions the work I have done (a survey) on the topics like mining a cryptocurrency, Factors that need to be taken care while investing in crypto and cryptocurrency exchanges and finally discussed vulnerabilities and counter measures for crypto.
 
 # Study on Mining, Investing & Regulating Cryptocurrencies 
 
@@ -28,12 +29,32 @@ Being a decentralized type of system and a digital currency Cryptocurrencies can
 4. Few nodes form a block
 5. Once after the transaction completes, the miner who have validated the transactions get a reward known a cryptocurrency.
 
-# Vulnerabilities in Cryptocurrencies
-* Volatility
-* Low Scalability
-* Lack of Regulation
-* Cybersecurity concerns
+# Steps to be taken for investing in a crytocurrency
+* Research Exchanges
+* Know How to Store Your Digital Currency
+* Diversify Your Investments
+* Prepare for Volatility
 
+# Steps to be taken for Cryptcurrency exchange
+*  Authenticity and security
+*  Method of purchase
+*  Supported tokens
+*  Trading platform, P2P exchange, or broker
+*  Fee structure
+*  User interface and user experience
+
+# Vulnerabilities in Cryptocurrencies
+* **Double Spending :** Where the use may spend a same coin twice for a single transaction is known as Doubble Spending 
+* **Client Side security checks :** Wallet are the things where users store there digital currency and it is mostly prone to attacks by hackers
+* **Networking issues :** DDoS is one of the famous attacks in the cryptocurrency network. It is the simplest attack and it would take less cost and great affect on the users
+* Other vulnerabilities are like :
+  * Volatility
+  * Low Scalability
+  * Lack of Regulation
+# CounterMeasure for vulnerabilities
+* Double spending can be reduced when we need to wait for multiple numbers of confirmations before delivering goods or services to the payee.
+* Client side attacks can be prevented by having one system in offline such that the hacker could not hack a offline system
+* DDoS attacks can be prevented by having the long chains of the transactions such that there would be trust and the  transaction complete safe.
 # News
 Top news on cryptocurrencies :
 * [Crypto Is Everywhere, But Should You Invest?](https://www.forbes.com/sites/robertfarrington/2021/01/18/crypto-is-everywhere-but-should-you-invest/?sh=6da1dbcc7e73)
@@ -48,3 +69,6 @@ Top news on cryptocurrencies :
 * [Why Cryptocurrencies Are Rocketing Higher Today](https://www.fool.com/investing/2021/07/21/why-cryptocurrencies-are-rocketing-higher-today/)
 * [What will decide the cryptocurrency's market price](https://www.livemint.com/market/cryptocurrency/what-will-decide-the-cryptocurrency-market-s-next-big-move-11626161720574.html)
 ## Manifest
+
+Links.txt - The file consists of links that cover main topics mentioned in the survey document.
+Readme.md - The file is the brief description of the survey done with main points
