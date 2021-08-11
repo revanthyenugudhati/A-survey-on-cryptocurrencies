@@ -1,7 +1,7 @@
 ## Reader's Note
 The documents in the repository mentions the work I have done (a survey) on the topics like mining a cryptocurrency, Factors that need to be taken care while investing in crypto and cryptocurrency exchanges and finally discussed vulnerabilities and counter measures for crypto.
 
-# Study on Mining, Investing & Regulating Cryptocurrencies 
+ # A Survey on Mining, Investing, Vulnerabilities & Countermeasures of Cryptocurrencies 
 
 # Description
 From the past decade a digital currency came into force which is know as Bitcoin which fall under the category of cryptocurrecy.A cryptocurrency is a medium of exchange that is digital, encrypted and decentralized. Unlike the U.S. Dollar or the Euro, there is no central authority that manages and maintains the value of a cryptocurrency. The first crypto currency "Bitcoin" was invented by a psuedonym Satoshi Nakamoto in 2008.Later on many bitcoins were created like etherium, dogecoin etc. The characteristic or features of the crypto currencies made many people invest in it. Few were successfull and few were went into loss due to unawareness of how to invest. In my research, I have collected information about the cryptocurrencies, how they are generated, stored, regulated, invested. In this I will be discussing about the investing factors and the future of the  cryptocurrencies. 
