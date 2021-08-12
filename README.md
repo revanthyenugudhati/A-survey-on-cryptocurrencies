@@ -70,5 +70,5 @@ Top news on cryptocurrencies :
 * [What will decide the cryptocurrency's market price](https://www.livemint.com/market/cryptocurrency/what-will-decide-the-cryptocurrency-market-s-next-big-move-11626161720574.html)
 ## Manifest
 
-Links.txt - The file consists of links that cover main topics mentioned in the survey document.
+Links.txt - The file consists of links that cover main topics mentioned in the survey document. <br/>
 Readme.md - The file is the brief description of the survey done with main points
