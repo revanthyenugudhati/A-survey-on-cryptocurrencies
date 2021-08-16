@@ -69,6 +69,8 @@ Top news on cryptocurrencies :
 * [Why Cryptocurrencies Are Rocketing Higher Today](https://www.fool.com/investing/2021/07/21/why-cryptocurrencies-are-rocketing-higher-today/)
 * [What will decide the cryptocurrency's market price](https://www.livemint.com/market/cryptocurrency/what-will-decide-the-cryptocurrency-market-s-next-big-move-11626161720574.html)
 ## Manifest
-A Survey on Mining, Investing, Vulnerabilities & Countermeasures of Cryptocurrencies- Final report on the survey performed <br/>
-Links.txt - The file consists of links that cover main topics mentioned in the survey document. <br/>
-Readme.md - The file is the brief description of the survey done with main points
+A Survey on Mining, Investing, Vulnerabilities & Countermeasures of Cryptocurrencies- Final report on the survey performed 
+* Links.txt - The file consists of links that cover main topics mentioned in the survey document.
+* Readme.md - The file is the brief description of the survey done with main points
+* Presentation.pptx- The PPT used for presenting the project.
+* PresentaionLink.txt- Please find the link of my presentation in here. 
